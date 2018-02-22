@@ -7,7 +7,6 @@ $( document ).ready(function() {
 		}
 		else{
 			$(this).addClass("collapse");
-			//$(this).removeClass( "card" );
 		}
 	});
 

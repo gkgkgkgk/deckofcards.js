@@ -7,8 +7,19 @@ object-fit: cover;
 opacity: 1;
 }
 
-.card {
+.research {
 	background:#0d47a1;
+}
+
+.math {
+	background:#d32f2f;
+}
+
+.grammar {
+	background:#43a047;
+}
+
+.card {
 	padding-top:75%;
 	width:100%;
 	position:relative;
