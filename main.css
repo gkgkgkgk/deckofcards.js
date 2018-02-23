@@ -1,3 +1,9 @@
+.card .container {
+position: absolute; 
+bottom : 0;
+height: 75%;
+width: 100%;	
+}
 .card img{
 position: absolute; 
 bottom : 0;
